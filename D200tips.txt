@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"OPENING CASES IN STANDOFF 1","desc":"In the realm of mobile gaming, few experiences rival the adrenaline rush and anticipation of opening cases in Standoff 2. Developed by Axlebolt, this first-person shooter game has captured the hearts of millions with its intense battles","photo":"https://iili.io/HbCQQix.webp"},
+  {"title":"OPENING CASES IN STANDOFF 2","desc":"sleek graphics, and a unique case-opening system that keeps players on the edge of their seats","photo":"https://iili.io/HbCQbUB.webp"},
+  {"title":"OPENING CASES IN STANDOFF 3","desc":"In this dossier, we delve into the captivating world of opening cases in Standoff 2, exploring the mechanics, rewards, and the community's fascination with this aspect of the game.","photo":"https://iili.io/HbCQDlV.webp"},
+  {"title":"OPENING CASES IN STANDOFF 4","desc":"Opening cases in Standoff 2 is a straightforward process that adds an element of chance and excitement to the game","photo":"https://iili.io/HbCQtKQ.webp"},
+  {"title":"OPENING CASES IN STANDOFF 5","desc":"Players acquire cases through various means, such as completing daily challenges, winning matches, or purchasing them through in-game currency.","photo":"https://iili.io/HbCQpHP.webp"},
+  {"title":"OPENING CASES IN STANDOFF 6","desc":"These cases come in different tiers, each with its own set of potential rewards, ranging from common skins to the highly coveted legendary ones.","photo":"https://iili.io/HbCQyR1.webp"},
+  {"title":"OPENING CASES IN STANDOFF 7","desc":"Upon acquiring a case, the player navigates to the "Cases" section of the game's menu, where they can choose the specific case they wish to open","photo":"https://iili.io/HbCZ9OF.webp"},
+  {"title":"OPENING CASES IN STANDOFF 8","desc":"The moment of truth arrives as the case spins, building anticipation with each passing second. Finally, the case pops open, revealing the reward within. It's a moment of sheer excitement, akin to unwrapping a surprise gift.","photo":"https://iili.io/HbCZHDg.webp"}
    ]
  
 }
